@@ -1,7 +1,2 @@
-body {
 
-    background-image: url('sea-3652697_640.jpg');
-    background-size: cover;
-    background-position: center;
-    background-attachment: fixed;
-}
+.bg {background-image: url("images/bgr.jpeg");}
