@@ -4,7 +4,11 @@ background: #d75bd7;
 background: linear-gradient(90deg, rgba(215, 91, 215, 1) 0%, rgba(255, 255, 255, 1) 51%, rgba(9, 54, 219, 1) 100%);
 }
 
-
+body {
+  font-family: minecraftia, sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
 
 
 
